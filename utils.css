@@ -1,0 +1,78 @@
+.min-height-screen{
+    min-height:100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content:space-between;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.my-1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+
+.btn{
+    font-family:"Josefin Sans", sans-serif; 
+    padding: 5px 5px;
+    border: 2px solid blue;
+    background-color: rgb(55, 122, 197);
+    color: rgba(255, 255, 255, 0.847);
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.font-purple{
+    color: rgb(114, 37, 186);
+}
